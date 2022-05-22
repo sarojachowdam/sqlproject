@@ -1,0 +1,5 @@
+create table sample(id int, name char(100));
+insert into sample values (1, 'saroja');
+insert into sample values(2, 'chowdam');
+
+select * from sample;
